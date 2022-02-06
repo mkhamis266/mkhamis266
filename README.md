@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Khamis 
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m.khamis22@outlook.com
 
