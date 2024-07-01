@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahmoud Khamis 
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning asp.net
+- 💞️ I’m looking to collaborate on api project
 - 📫 How to reach me m.khamis22@outlook.com
 
 <!---
